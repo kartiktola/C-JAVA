@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class RecursionWithArray{
+public class recursion{
     public static Scanner scn=new Scanner(System.in);
     public static void main(String[] args){
         int[] arr = {10,5,10,20,10,30,12};
